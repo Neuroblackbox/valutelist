@@ -1,0 +1,2 @@
+# valutelist
+list of currencies
